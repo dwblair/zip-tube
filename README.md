@@ -1,7 +1,7 @@
 zip-tube
 ========
 
-[Licensed under the [CERN Open Hardware License 1.2](http://www.ohwr.org/documents/294a
+Licensed under the [CERN Open Hardware License 1.2](http://www.ohwr.org/documents/294a
 ) 
 An easy-to-clean piping / tubing design.
 
