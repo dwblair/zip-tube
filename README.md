@@ -20,3 +20,8 @@ Note: in the below photos, the ends of the 'zip-tube' are open, and can be conne
 
 <img src="https://raw.githubusercontent.com/dwblair/zip-tube/master/ziptube-open.jpg">
 
+### Nozzle for end of tube
+
+Splits in half, to allow for easier cleaning
+
+<img src="https://raw.githubusercontent.com/dwblair/zip-tube/master/ziploc_nozzle_small.png">
