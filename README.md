@@ -3,11 +3,11 @@ zip-tube
 
 An easy-to-clean piping / tubing design.
 
-*Problem* -- you want to transport a fluid (breastmilk, say) from one location (a breast, say) to another location (a breastmilk container in a backpack, say).  But typical plastic tubing is very difficult to clean!
+**Problem** -- sterile transport for fluids.
 
-*Solution* -- zip-tubing!  
+**Solution** -- zip-tubing!
 
-In the below photos, the ends of the 'zip-tube' are open, and can be connected (via special connecters, yet to be designed) to various nozzles and etc.
+Note: in the below photos, the ends of the 'zip-tube' are open, and can be connected (via special connecters, yet to be designed) to various nozzles and etc.
 
 ### Closed:
 
