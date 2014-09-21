@@ -1,8 +1,9 @@
 zip-tube
 ========
 
-Licensed under the [CERN Open Hardware License 1.2](http://www.ohwr.org/documents/294a
+This design came out of the MIT Media Lab Breast Pump Hackathon, and is Licensed under the [CERN Open Hardware License 1.2](http://www.ohwr.org/documents/294a
 ) 
+
 An easy-to-clean piping / tubing design.
 
 **Problem** -- sterile transport for fluids.
